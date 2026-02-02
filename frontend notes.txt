@@ -1,0 +1,30 @@
+create project:
+----------------
+the project is based on VITE and REACT.
+
+create a directory and open cmd.
+run=> npm create vite@latest
+select necessary things.
+
+open project on VS Code:
+------------------------
+open on VS Code
+run=> npm run dev 
+project will run
+
+React Redux dependency add:
+---------------------
+website for command and study: https://react-redux.js.org/introduction/getting-started
+
+run=> npm install react-redux
+
+
+Redux ToolKit dependency add:
+-----------------------------
+website for command and study:	
+https://redux-toolkit.js.org/introduction/getting-started
+
+run=> npm install @reduxjs/toolkit
+
+
+

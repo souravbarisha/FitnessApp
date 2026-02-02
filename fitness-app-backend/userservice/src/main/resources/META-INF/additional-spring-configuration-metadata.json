@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "eureka.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.cloud.config.enabled'"
+  },
+  {
+    "name": "eureka.config.import-check.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.config.import-check.enabled'"
+  }
+]}

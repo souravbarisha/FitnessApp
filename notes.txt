@@ -1,0 +1,37 @@
+kafka run with docker:
+---------------------
+docker pull apache/kafka:3.9.1
+
+docker run -d --name kafka -p 9092:9092 apache/kafka:3.9.1
+
+commands: https://kafka.apache.org/quickstart/
+
+Gimni ai API key:
+---------------------
+AIzaSyDBC-ADlGp80E0pZQrM3X91GRoLonj3tWo
+
+Source code: 
+--------------
+https://github.com/EmbarkXOfficial/fitness-app-microservices
+
+Keycloak web site:
+------------------
+https://www.keycloak.org/
+
+Keycloak run by Docker:
+-----------------------
+docker run -d -p 127.0.0.1:8181:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:26.5.1 start-dev
+
+keycloak port:
+--------------
+Bydefault it's run 8080 but as I changed the port to 8181, so it will host on -
+http://localhost:8181/admin/
+
+user: admin
+password: admin
+
+keycloak user: 
+---------------
+username: user1
+password: user1
+
